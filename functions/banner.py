@@ -1,4 +1,14 @@
-def banner_text(text, screen_width=80):
+def banner_text(text: str = " ", screen_width: int = 80) -> None:
+    """
+    Prints to the screen `text` as a banner.
+    
+    :param text: String that will be printed to the screen.
+        An (*) will result in a row of asterisks.
+        The default will print a blank line, with a ** border at
+        the left and right edges.
+    :param screen_width: Specified size of the screen size
+    :raise ValueError: if the supplied string is too long to fit.
+    """
     if len(text) > screen_width - 4:
         raise ValueError("String {0} is larger than specified width"
                          .format(text, screen_width))
