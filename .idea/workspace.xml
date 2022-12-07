@@ -5,18 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7947021b-9705-4d3a-916a-932609f950c9" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/functions/HiLo_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/banner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/color_print.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/fibonacci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/fizz_buzz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/funcitons.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/palindrome_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/star_args_sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries-and-Sets/buy_computer_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries-and-Sets/buy_computer_dict_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries-and-Sets/character_counter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries-and-Sets/contents.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries-and-Sets/dict_intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries-and-Sets/meal_planner.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessingGame2.py" beforeDir="false" afterPath="$PROJECT_DIR$/guessingGame2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buy_computer.py" beforeDir="false" afterPath="$PROJECT_DIR$/buy_computer.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,8 +62,8 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.star_args_sum">
-    <configuration name="HiLo_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.character_counter">
+    <configuration name="buy_computer_dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FirstProgra" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,11 +71,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dictionaries-and-Sets" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/HiLo_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dictionaries-and-Sets/buy_computer_dict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="color_print" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="buy_computer_dict_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FirstProgra" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,11 +92,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dictionaries-and-Sets" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/color_print.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dictionaries-and-Sets/buy_computer_dict_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="character_counter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FirstProgra" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,11 +113,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dictionaries-and-Sets" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/factorial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dictionaries-and-Sets/character_counter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fizz_buzz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dict_intro" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FirstProgra" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,11 +134,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dictionaries-and-Sets" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/fizz_buzz.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dictionaries-and-Sets/dict_intro.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="star_args_sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="meal_planner" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FirstProgra" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,11 +155,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dictionaries-and-Sets" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/star_args_sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dictionaries-and-Sets/meal_planner.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.star_args_sum" />
-        <item itemvalue="Python.factorial" />
-        <item itemvalue="Python.fizz_buzz" />
-        <item itemvalue="Python.HiLo_test" />
-        <item itemvalue="Python.color_print" />
+        <item itemvalue="Python.character_counter" />
+        <item itemvalue="Python.meal_planner" />
+        <item itemvalue="Python.buy_computer_dict_2" />
+        <item itemvalue="Python.buy_computer_dict" />
+        <item itemvalue="Python.dict_intro" />
       </list>
     </recent_temporary>
   </component>
@@ -231,6 +227,11 @@
           <url>file://$PROJECT_DIR$/nospam.py</url>
           <line>12</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dictionaries-and-Sets/character_counter.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
