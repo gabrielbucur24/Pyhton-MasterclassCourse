@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7947021b-9705-4d3a-916a-932609f950c9" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/Dictionaries-and-Sets/buy_computer_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries-and-Sets/buy_computer_dict_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries-and-Sets/character_counter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries-and-Sets/contents.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries-and-Sets/dict_intro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries-and-Sets/meal_planner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries-and-Sets/prescription_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries-and-Sets/prescription_trial.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buy_computer.py" beforeDir="false" afterPath="$PROJECT_DIR$/buy_computer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionaries-and-Sets/atrocious_hash.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionaries-and-Sets/atrocious_hash.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini-projects/roll_the_dice.py" beforeDir="false" afterPath="$PROJECT_DIR$/mini-projects/roll_the_dice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-exercises-w3resource/print_extension.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-exercises-w3resource/print_extension.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,8 +60,15 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.character_counter">
-    <configuration name="buy_computer_dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bucur\Downloads\Python_Course\FirstProgra\Dictionaries-and-Sets" />
+      <recent name="C:\Users\bucur\Downloads\Python_Course\FirstProgra\python-exercises-w3resource" />
+      <recent name="C:\Users\bucur\Downloads\Python_Course\FirstProgra\mini-projects" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.candidates">
+    <configuration name="candidates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FirstProgra" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,7 +80,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dictionaries-and-Sets/buy_computer_dict.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dictionaries-and-Sets/candidates.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="buy_computer_dict_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="difference_challenge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FirstProgra" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,7 +101,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dictionaries-and-Sets/buy_computer_dict_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dictionaries-and-Sets/difference_challenge.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="character_counter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="intersection_challenge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FirstProgra" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,7 +122,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dictionaries-and-Sets/character_counter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dictionaries-and-Sets/intersection_challenge.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dict_intro" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="super_sub" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FirstProgra" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,7 +143,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dictionaries-and-Sets/dict_intro.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dictionaries-and-Sets/super_sub.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="meal_planner" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="trial_patients" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FirstProgra" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,7 +164,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dictionaries-and-Sets/meal_planner.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dictionaries-and-Sets/trial_patients.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.character_counter" />
-        <item itemvalue="Python.meal_planner" />
-        <item itemvalue="Python.buy_computer_dict_2" />
-        <item itemvalue="Python.buy_computer_dict" />
-        <item itemvalue="Python.dict_intro" />
+        <item itemvalue="Python.candidates" />
+        <item itemvalue="Python.super_sub" />
+        <item itemvalue="Python.difference_challenge" />
+        <item itemvalue="Python.intersection_challenge" />
+        <item itemvalue="Python.trial_patients" />
       </list>
     </recent_temporary>
   </component>
